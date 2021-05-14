@@ -1,4 +1,5 @@
-# MS-HTC2
+# Calibrationless Multi-Slice Cartesian MRI via Alternating Phase Encoding Direction and Joint Low-Rank Tensor Completion
+
 ## Suggested setup
 - The demo scripts were tested on Matlab 2019b (installed on Windows 10). 
 
