@@ -13,4 +13,5 @@
 
 ## Reference
 Zhao, Yujiao, et al. "Calibrationless Multi-Slice Cartesian MRI via Orthogonally Alternating Phase Encoding Direction and Joint Low-Rank Tensor Completion." NMR in Biomedicine (2022). https://doi.org/10.1002/nbm.4695
+
 Liu, Yilong, et al. "Calibrationless parallel imaging reconstruction for multislice MR data using low‐rank tensor completion." Magnetic Resonance in Medicine 85.2 (2021): 897-911. https://doi.org/10.1002/mrm.28480
